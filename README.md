@@ -8,7 +8,7 @@ Please verify your installation by checking your docker version.
 ```docker
 docker version
 ```
-![image](/image/dockerversion.jpg)  
+![image](image/dockerversion.jpg)  
 
 If there is no error raised, you are on the right track so far. We are going to write our first dockerfile soon.
 
