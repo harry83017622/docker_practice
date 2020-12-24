@@ -49,7 +49,7 @@ The result shows that we successfully build an image. We can build a container u
 ```
 docker ps -a
 ```
-![image](/image/dockerps_a_v1.jpg)
+![image](https://github.com/harry83017622/docker_practice/image/dockerps_a_v1.jpg)
 It shows that we don't have any container for now. Run the following command to build container:  
 
 ```docker
