@@ -8,7 +8,8 @@ Please verify your installation by checking your docker version.
 ```docker
 docker version
 ```
-![Image](https://github.com/harry83017622/docker_practice/blob/master/src/dockerversion.jpg)
+![image](https://github.com/harry83017622/docker_practice/blob/master/src/dockerversion.jpg)  
+
 If there is no error raised, you are on the right track so far. We are going to write our first dockerfile soon.
 
 ## **Dockerfile**
